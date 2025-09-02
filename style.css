@@ -6,6 +6,7 @@ font-size: 100px;
 ul{
     display: flex;
     justify-content: center;
+    
 }
 
 #logo{
@@ -14,8 +15,10 @@ ul{
 
 ul li{
     list-style: none;
+    padding: 40px;
 }
 
 ul img{
     max-width: 20px;
+    padding: 40px;
 }
