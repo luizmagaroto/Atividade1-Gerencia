@@ -6,7 +6,7 @@ font-size: 100px;
 ul{
     display: flex;
     justify-content: center;
-    background-color: gray;
+    background-color: rgb(223, 223, 223);
     
 }
 
@@ -17,10 +17,18 @@ ul{
 ul li{
     list-style: none;
     padding: 40px;
+    display: flex;
 }
 
 ul img{
     max-width: 20px;
     padding: 40px;
     object-fit: contain;
+}
+
+.lista{ 
+    display: flex;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
