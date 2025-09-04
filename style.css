@@ -66,3 +66,14 @@ ul img{
   40% { opacity: 0; }
   100% { opacity: 0; }
 }
+
+
+cards-container {
+  max-width: 200px;
+  position: absolute;
+  padding:40px;
+}
+
+card{
+  border:10px;
+}
